@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: This is an Azure Arc GitOps Demo!
+          value: Hello to my new app on Arc enabled AKS!

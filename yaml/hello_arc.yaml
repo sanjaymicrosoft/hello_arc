@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello to my new demo - ARC
+          value: Hello to the latest demo Oct 8 - ARC
